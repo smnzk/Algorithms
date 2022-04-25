@@ -7,7 +7,7 @@ public class Main {
     public static void main(String[] args) throws FileNotFoundException {
 
 
-        File file = new File(args[0]);
+        File file = new File("Data.txt");
         Scanner scanner = new Scanner(file);
         int operations = Integer.parseInt(scanner.nextLine());
         String [] startingNumbers = scanner.nextLine().split("\\s+");

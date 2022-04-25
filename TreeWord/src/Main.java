@@ -7,7 +7,7 @@ public class Main {
     public static void main(String[] args) throws FileNotFoundException {
 
         File file = new File("Data.txt");
-
+        //f
         Scanner scanner = new Scanner(file);
         Scanner scanner2 = new Scanner(file);
         int length = getPlacement(scanner.nextLine());
