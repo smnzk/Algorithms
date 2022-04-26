@@ -1,1 +1,1 @@
-I will update each algorithm with what it does in a few days
+I will add detailed description for each algorithm soon.
